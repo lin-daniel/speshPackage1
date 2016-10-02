@@ -466,9 +466,9 @@ h4 code {
     text-align: center;
     text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
     background-color: #6f5499;
-    background-image: url(../bootstrapsite/header.jpg);
+    background-image: url(http://www.elestoque.org/wp-content/uploads/2016/10/EllisIsland.jpg);
     display:block;
-    filter: opacity(.5);
+    filter: opacity(.94);
     background-size: cover;
 }
 
